@@ -3,3 +3,4 @@ Modify the file; create a new branch;
 Add text to alice;
 add some text to do the first pull command 
 Add some text to Alice on new branch Interactive Rebase.
+Add some text to Alice to make things more interesting

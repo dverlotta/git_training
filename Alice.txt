@@ -2,3 +2,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Modify the file; create a new branch;
 Add text to alice;
 add some text to do the first pull command 
+Add some text to Alice on new branch Interactive Rebase.

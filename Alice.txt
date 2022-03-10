@@ -3,3 +3,5 @@ Modify the file; create a new branch;
 Add text to alice;
 add some text to do the first pull command 
 Add text to create a conflict
+Add text to create a conflict
+Add text to create a conflict
